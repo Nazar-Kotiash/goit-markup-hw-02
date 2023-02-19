@@ -1,10 +1,16 @@
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
 body{
     font-family: 'Roboto';
     font-weight: 400;
     color: #2E2F42;
     letter-spacing: 0.02em;
 }
-
 .header_logo{
     font-family: 'Raleway';
     font-weight: 800;
@@ -43,6 +49,7 @@ body{
     font-size: 16px;
     line-height: 1.5;
     color: #FFFFFF;
+    cursor: pointer;
 }
 .hero_list_item_title{
     font-weight: 500;
@@ -95,6 +102,7 @@ body{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #4D5AE5;
+    cursor: pointer;
 }
 .btn_item:hover, .btn_item:focus{
 background: #404BBF;
