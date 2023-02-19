@@ -74,6 +74,12 @@ body{
 .caption_btn:hover, .caption_btn:focus{
     background: #404BBF;
 }
+.hero_list_item_title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
 .hero_list_item_text{
     font-size: 16px;
     line-height: 1.5;
